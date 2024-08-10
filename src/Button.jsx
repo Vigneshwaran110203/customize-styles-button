@@ -1,8 +1,7 @@
 import React from 'react';
-// import PropTypes from 'prop-types';
 import './Button.css'; // Import the CSS file for styles
 
-const Button = ({
+const CustomButton = ({
   label,
   onClick,
   color = '#007BFF',
@@ -29,16 +28,5 @@ const Button = ({
   );
 };
 
-// Button.propTypes = {
-//   label: PropTypes.string.isRequired,
-//   onClick: PropTypes.func,
-//   color: PropTypes.string,
-//   borderRadius: PropTypes.oneOf(['normal', 'rounded']),
-//   transition: PropTypes.bool,
-//   icon: PropTypes.node, // React node for the icon
-//   iconPosition: PropTypes.oneOf(['left', 'right']),
-//   type: PropTypes.oneOf(['button', 'submit', 'reset']),
-//   style: PropTypes.object,
-// };
 
-export default Button;
+export default CustomButton;

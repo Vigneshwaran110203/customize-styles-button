@@ -36,7 +36,7 @@ A highly customizable button component for React applications. This package allo
 Install the package via npm:
 
 ```
-npm install customizable-button-package
+npm install customize-styles-button
 ```
 
 ## Usage
@@ -47,7 +47,7 @@ Here’s a simple example of how to use the `CustomButton` component in your Rea
 
 ```
 import React from 'react';
-import CustomButton from 'customizable-button-package';
+import CustomButton from "customize-styles-button"
 
 function App() {
   return (
@@ -136,7 +136,7 @@ For more advanced usage, you can combine multiple props to create sophisticated 
 
 ```
 import React from 'react';
-import CustomButton from 'customizable-button-package';
+import CustomButton from 'customize-styles-button';
 import { FaShoppingCart } from 'react-icons/fa';
 
 function App() {
@@ -179,7 +179,7 @@ If you want to contribute to this project or customize it further, follow these 
    npm start
    ```
 
-   This will start the development server, and you can view the project at `http://localhost:5173`.
+   This will start the development server, and you can view the project at `http://localhost:5173` in vite and `http://localhost:3000` in create-react-app.
 
 ### Building for Production
 
