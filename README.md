@@ -220,7 +220,6 @@ If you have any questions or need help, feel free to open an issue on GitHub or 
 - [React Icons](https://react-icons.github.io/react-icons/)
 
 Thank you for using the customizable button component!
-```
 
 ### Key Sections:
 
@@ -236,5 +235,3 @@ Thank you for using the customizable button component!
 10. **Acknowledgements**: Credits the technologies and libraries used.
 
 This `README.md` file is designed to be comprehensive, giving developers all the information they need to use and contribute to your npm package effectively.
-
-```
