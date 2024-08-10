@@ -179,7 +179,7 @@ If you want to contribute to this project or customize it further, follow these 
    npm start
    ```
 
-   This will start the development server, and you can view the project at `http://localhost:3000`.
+   This will start the development server, and you can view the project at `http://localhost:5173`.
 
 ### Building for Production
 
@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you have any questions or need help, feel free to open an issue on GitHub or contact me directly at [your-email@example.com].
+If you have any questions or need help, feel free to open an issue on GitHub or contact me directly at vigneshwaranvimal17@gmail.com.
 
 ## Acknowledgements
 
@@ -236,3 +236,5 @@ Thank you for using the customizable button component!
 10. **Acknowledgements**: Credits the technologies and libraries used.
 
 This `README.md` file is designed to be comprehensive, giving developers all the information they need to use and contribute to your npm package effectively.
+
+```
