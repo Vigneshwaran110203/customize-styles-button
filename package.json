@@ -1,6 +1,6 @@
 {
   "name": "customize-styles-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simple and Reusable Button Component for React Application",
   "main": "src/Button.jsx",
   "module": "src/Button.jsx",
