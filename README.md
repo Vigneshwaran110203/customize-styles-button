@@ -165,8 +165,8 @@ If you want to contribute to this project or customize it further, follow these 
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your-username/customizable-button-package.git
-   cd customizable-button-package
+   git clone https://github.com/Vigneshwaran110203/customize-styles-button.git
+   cd customize-styles-button
    ```
 
 2. **Install dependencies**:
